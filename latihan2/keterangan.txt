@@ -1,0 +1,18 @@
+---- Keterangan Latihan 2 ----
+
+1. Cara Installasi
+   - npx create-react-app simple-notes-firebase
+     - Untuk meginstall react js di dalam folder simple
+   - yarn add firebase
+     - Untuk Menginstall firebase
+   - yarn add react-router-dom
+     - Untuk menginstall react dom  
+   - yarn add node-sass
+     - Untuk menginstall sass di dalam react js
+
+2. Cara Pemakaian
+   - Dokumentasi Versi Firebase
+     - https://exerror.com/attempted-import-error-firebase-app-does-not-contain-a-default-export-imported-as-firebase/
+   - yarn start
+     - Untuk menjalankan project react
+   

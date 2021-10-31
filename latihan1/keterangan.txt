@@ -1,0 +1,11 @@
+---- Keterangan Latihan 1 (Integrasi Firebase dengan Project ReactJS (Atomic Design) - #2 ReactJS-Firebase Tutorial [Indonesia]) ----
+
+1. Cara Installasi
+   - npx create-react-app simple-notes-firebase
+   - yarn add firebase
+
+2. Cara Pemakaian
+   - Dokumentasi Versi Firebase
+     - https://exerror.com/attempted-import-error-firebase-app-does-not-contain-a-default-export-imported-as-firebase/
+   - yarn add
+     - Untuk menjalankan project react

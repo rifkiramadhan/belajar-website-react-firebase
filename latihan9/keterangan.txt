@@ -1,0 +1,35 @@
+---- Keterangan Latihan 9 ----
+
+1. Cara Installasi
+   - npx create-react-app simple-notes-firebase
+     - Untuk meginstall react js di dalam folder simple
+   - yarn add firebase
+     - Untuk Menginstall firebase
+   - yarn add react-router-dom
+     - Untuk menginstall react dom  
+   - yarn add node-sass
+     - Untuk menginstall sass di dalam react js
+   - yarn add redux
+     - Untuk menginstall redux
+   - yarn add react-redux
+     - Untuk menginstall react redux
+   - yarn add redux-thunk
+     - Untuk menginstall redux thunk
+
+2. Cara Pemakaian
+   - Dokumentasi Versi Firebase
+     - https://exerror.com/attempted-import-error-firebase-app-does-not-contain-a-default-export-imported-as-firebase/
+   - yarn start
+     - Untuk menjalankan project react
+
+3. Pengertian
+   - redux thunk
+     - Adalah midleware dari sebuah redux dimana fungsinya adalah bisa menghandle sebuah asyncronous function sehingga asynchronous ini bisa dipanggil
+       pada dispatch, dimana yang kita ketahui bahwa dispatch itu bersifat synchronous bahwa dia langsung melemparkan sebuah object pada sebuah redux,
+       namun dengan adanya redux thunk ini proses yang sifatnya synchronous juga bisa ditunggu terlebih dahulu prosesnya, kemudian dikirimkan hasilnya
+       melalui dispatch
+     - Tanpa redux thunk hal itu tidak dapat dilakukan, karena default dari sebuah redux atau dispatch itu harus bersifat synchronous atau harus langsung
+       mereturn sebuah object, namun karena ada sebuah asynchronous maka dibutuhkan redux thunk
+   - setItem
+     - Adalah fungsi untuk menyimpan data kita ke local storage
+   

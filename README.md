@@ -2,4 +2,4 @@
 ![Desktop Layout](screenshot/desktop-layout.PNG)
 
 ## Link Hosting 
-[Nearby Resto](https://nearby-resto.netlify.app/)
+[Simple Notes Firebase](https://simple-notes-firebase-45a37.web.app/)

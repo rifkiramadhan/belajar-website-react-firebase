@@ -1,4 +1,4 @@
-# Layout Mobile
+# Screenshot Aplikasi
 ![Desktop Layout](screenshot/desktop-layout.PNG)
 
 ## Link Hosting 
